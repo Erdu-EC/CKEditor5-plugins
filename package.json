@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-core": "^40.0.0",
+    "@ckeditor/ckeditor5-ui": "^40.0.0",
+    "@ckeditor/ckeditor5-widget": "^40.0.0",
+    "vite": "^4.5.0"
+  }
+}
